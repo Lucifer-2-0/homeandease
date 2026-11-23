@@ -1,0 +1,137 @@
+{
+    "siteUrl":  "https://homeandease.vercel.app/",
+    "siteUrlConfirmed":  true,
+    "siteUrlSource":  "Current Vercel deployment URL supplied by the owner on 2026-11-13. Replace if a custom production domain is adopted.",
+    "phone":  "+2347086007268",
+    "whatsAppUrl":  "https://wa.me/2347086007268",
+    "socialImage":  "https://images.unsplash.com/photo-1775178120132-f0ff7fd5cb40?auto=format\u0026fit=crop\u0026w=1200\u0026q=85",
+    "pages":  [
+                  {
+                      "path":  "/",
+                      "file":  "index.html",
+                      "indexable":  true,
+                      "title":  "Home Care in Enugu | Home \u0026 Ease",
+                      "description":  "Trusted, trained and legally screened nannies, home assistants and cleaners give families time, ease and balance. Home \u0026 Ease serves households within Enugu.",
+                      "kind":  "home"
+                  },
+                  {
+                      "path":  "/services/",
+                      "file":  "services/index.html",
+                      "indexable":  true,
+                      "title":  "Home Assistants, Nannies \u0026 Cleaning in Enugu | Home \u0026 Ease",
+                      "description":  "Child care, home care and cleaning from Home \u0026 Ease. Explore home assistants (maids), nannies and professional cleaners serving households within Enugu.",
+                      "kind":  "page"
+                  },
+                  {
+                      "path":  "/services/cleaning/",
+                      "file":  "services/cleaning/index.html",
+                      "indexable":  true,
+                      "title":  "Professional Cleaners in Enugu | Home \u0026 Ease",
+                      "description":  "Professional cleaners are deep-cleaning specialists for scheduled sessions, kitchens, bathrooms, floors and hard-to-reach areas within Enugu.",
+                      "kind":  "service",
+                      "serviceName":  "Professional Cleaners",
+                      "serviceType":  "Deep cleaning and scheduled residential cleaning"
+                  },
+                  {
+                      "path":  "/services/home-assistants/",
+                      "file":  "services/home-assistants/index.html",
+                      "indexable":  true,
+                      "title":  "Home Assistants (Maids) in Enugu | Home \u0026 Ease",
+                      "description":  "Home assistants (maids) help keep your home clean, organised and running smoothly with cleaning, laundry, kitchen support and basic organisation in Enugu.",
+                      "kind":  "service",
+                      "serviceName":  "Home Assistants (Maids)",
+                      "serviceType":  "Home assistance and housekeeping"
+                  },
+                  {
+                      "path":  "/services/nannies/",
+                      "file":  "services/nannies/index.html",
+                      "indexable":  true,
+                      "title":  "Nanny Services in Enugu | Home \u0026 Ease",
+                      "description":  "Home \u0026 Ease nannies focus on children’s care, safety and daily routines, including feeding, hygiene, play, learning and supervision within Enugu.",
+                      "kind":  "service",
+                      "serviceName":  "Nannies",
+                      "serviceType":  "Nanny and childcare services"
+                  },
+                  {
+                      "path":  "/pricing/",
+                      "file":  "pricing/index.html",
+                      "indexable":  true,
+                      "title":  "Home \u0026 Ease Prices | Cleaning, Maids \u0026 Nannies in Enugu",
+                      "description":  "Home \u0026 Ease prices for live-in support, nanny services, home assistants, apartment cleaning and event cleaning within Enugu.",
+                      "kind":  "page"
+                  },
+                  {
+                      "path":  "/about/",
+                      "file":  "about/index.html",
+                      "indexable":  true,
+                      "title":  "Why Families Trust Home \u0026 Ease | Enugu",
+                      "description":  "Professional and reliable home care to give your family time, ease and balance. Explore Home \u0026 Ease home assistants, nannies and cleaning in Enugu.",
+                      "kind":  "page"
+                  },
+                  {
+                      "path":  "/faq/",
+                      "file":  "faq/index.html",
+                      "indexable":  true,
+                      "title":  "Home \u0026 Ease FAQ | Home Care in Enugu",
+                      "description":  "Find answers about getting started, pricing, staff screening, matching times, monthly subscription services and when service starts.",
+                      "kind":  "page"
+                  },
+                  {
+                      "path":  "/contact/",
+                      "file":  "contact/index.html",
+                      "indexable":  true,
+                      "title":  "Contact Home \u0026 Ease on WhatsApp | Enugu",
+                      "description":  "Talk to Home \u0026 Ease on WhatsApp about home care services within Enugu. We explain services, schedules and costs clearly and respond in less than 24 hours.",
+                      "kind":  "page"
+                  },
+                  {
+                      "path":  "/our-process/",
+                      "file":  "our-process/index.html",
+                      "indexable":  true,
+                      "title":  "Our Process | Home \u0026 Ease Enugu",
+                      "description":  "Learn how we understand your needs, share a package and pricing, confirm agreements, and match you with a home care professional within 72 hours maximum.",
+                      "kind":  "page"
+                  },
+                  {
+                      "path":  "/photo-credits/",
+                      "file":  "photo-credits/index.html",
+                      "indexable":  false,
+                      "title":  "Photo Credits | Home \u0026 Ease",
+                      "description":  "Sources and licenses for illustrative home-cleaning and household photos used on Home \u0026 Ease.",
+                      "kind":  "page"
+                  },
+                  {
+                      "path":  "/become-a-staff/",
+                      "file":  "become-a-staff/index.html",
+                      "indexable":  true,
+                      "title":  "Care for Families | Home \u0026 Ease Jobs in Enugu",
+                      "description":  "Home \u0026 Ease welcomes nannies, maids and cleaners looking for fair pay, clear duties and a safe, supportive home care team.",
+                      "kind":  "page"
+                  },
+                  {
+                      "path":  "/privacy-policy/",
+                      "file":  "privacy-policy/index.html",
+                      "indexable":  false,
+                      "title":  "Privacy Notice Draft | Home \u0026 Ease",
+                      "description":  "Draft privacy information for Home \u0026 Ease. Owner and legal review is required before publication.",
+                      "kind":  "page"
+                  },
+                  {
+                      "path":  "/terms/",
+                      "file":  "terms/index.html",
+                      "indexable":  false,
+                      "title":  "Terms Draft | Home \u0026 Ease",
+                      "description":  "Draft website terms for Home \u0026 Ease. Owner and legal review is required before publication.",
+                      "kind":  "page"
+                  },
+                  {
+                      "path":  "/404.html",
+                      "file":  "404.html",
+                      "indexable":  false,
+                      "title":  "Page Not Found | Home \u0026 Ease",
+                      "description":  "That Home \u0026 Ease page could not be found. Return home or explore services.",
+                      "kind":  "page"
+                  }
+              ],
+    "areaServed":  "Enugu"
+}
